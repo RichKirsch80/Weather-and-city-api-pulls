@@ -39,7 +39,8 @@ pip-delete-this-directory.txt
 
 # Adding config.py file.
 api_keys.py
-
+API_practice.ipynb
+random_numbers.ipynb
 # Unit test / coverage reports
 htmlcov/
 .tox/
